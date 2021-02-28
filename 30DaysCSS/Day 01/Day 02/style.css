@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #271637;
+}
+
+.sm a{
+	display: inline-block;
+	font-size: 40px;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	color: #63BCC9;
+	margin: 0 16px;
+	transition: .4s linear;
+	position: relative;
+}
+
+.sm a::before, .sm a::after{
+	content: '';
+	position: absolute;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	border: 4px solid;
+	left: 0;
+	top: 0;
+	transition: .4s linear;
+}
+
+.sm a:hover{
+	transform: scale(.8);
+}
+
+.sm a:hover::before{
+	border-left: 4px solid;
+	border-right: 4px solid;
+	transform: skewX(-20deg);
+}
+
+.sm a:hover::after{
+	border-top: 4px solid;
+	border-bottom: 4px solid;
+	transform: skewX(-20deg);
+}
