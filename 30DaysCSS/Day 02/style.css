@@ -1,50 +1,58 @@
-body{
+*{
 	margin: 0;
 	padding: 0;
-	height: 100vh;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	background-color: #271637;
 }
 
-.sm a{
-	display: inline-block;
-	font-size: 40px;
-	width: 100px;
-	height: 100px;
-	line-height: 100px;
-	text-align: center;
-	color: #63BCC9;
-	margin: 0 16px;
-	transition: .4s linear;
+body{
+	background: #322f3d;
+}
+
+.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate (-50%, -50%);
+	width: 60px;
+	height: 60px;
+}
+
+.c{
+	width: 20px;
+	height: 20px;
 	position: relative;
+	float: left;
 }
 
-.sm a::before, .sm a::after{
+.c::before{
 	content: '';
 	position: absolute;
-	box-sizing: border-box;
+	bottom: 0;
+	right: 0;
 	width: 100%;
 	height: 100%;
-	border: 4px solid;
-	left: 0;
-	top: 0;
-	transition: .4s linear;
+	background: #00b8ff;
+	animation: 	c 1s infinite;
 }
 
-.sm a:hover{
-	transform: scale(.8);
+.c2::before{
+	animation-delay: 0.1s;
 }
 
-.sm a:hover::before{
-	border-left: 4px solid;
-	border-right: 4px solid;
-	transform: skewX(-20deg);
+.c3::before{
+	animation-delay: 0.2s;
 }
 
-.sm a:hover::after{
-	border-top: 4px solid;
-	border-bottom: 4px solid;
-	transform: skewX(-20deg);
+.c4::before{
+	animation-delay: 0.3s;
+}
+
+.c5::before{
+	animation-delay: 0.4s;
+}
+
+@keyframes c{
+	100%{
+		width: 0;
+		height: 0;
+	}
 }
