@@ -25,3 +25,10 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/fhvV0tKLdBqj6uTIa4/giphy.gif" width="100%" height="100%" />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2002)
+
+
+- Day 03 - Image Manipulation
+---
+<img src="https://media.giphy.com/media/pTnyyzne2umjhpmyzY/giphy.gif" width="100%" height="100%" />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2003)
