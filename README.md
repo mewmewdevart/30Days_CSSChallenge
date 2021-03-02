@@ -29,6 +29,6 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 - Day 03 - Image Manipulation
 ---
-<img src="https://media.giphy.com/media/pTnyyzne2umjhpmyzY/giphy.gif" width="100%" height="100%" />
+<img src="https://media.giphy.com/media/JAFEPaKwZUdwt8BWw4/giphy-downsized-large.gif" width="100%" height="100%" />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2003)
