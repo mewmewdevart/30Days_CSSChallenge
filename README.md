@@ -32,3 +32,10 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/JAFEPaKwZUdwt8BWw4/giphy-downsized-large.gif" width="100%" height="100%" />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2003)
+
+
+- Day 04 - Text Glitch Effect
+---
+<img src="https://media.giphy.com/media/IvCiMBJkduD2DoQ5jF/giphy.gif" width="100%" height="100%" />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2004)
