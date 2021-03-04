@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+
+
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: 'Poppins', sans-serif;
+		background-color: rgb(243, 243, 243);
+	}
+
+	.final-result{
+	  padding-top: 200px;
+	  height: 50%;
+	  width: 50%;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+
+   .animation1 {
+     position: relative;
+     display: block;
+     font-size: 16px;
+     line-height: 16px;
+     background: rgba(0, 0, 0, 0.1);
+     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+   }
+   .animation1 span {
+     position: relative;
+     display: inline-block;
+     vertical-align: middle;
+     height: 20px;
+     background-color: #00917c;
+     background-size: 100%;
+     background-image: linear-gradient(to bottom, #00917c, #00917c);
+     animation: progress-anim-2 10s infinite ease;
+   }
+   .animation1 span:before {
+     position: absolute;
+     right: 0;
+     bottom: 100%;
+     display: inline-block;
+     width: 0;
+     height: 0;
+     border: 10px solid transparent;
+     border-right-width: 0;
+     border-bottom-width: 0;
+     border-top-color: rgba(0, 0, 0, 1);
+     content: "";
+   }
+   .animation1 span:after {
+     position: absolute;
+     right: 0;
+     bottom: calc(100% + 5px);
+     z-index: 1;
+     display: inline-block;
+     content: attr(data-label);
+     padding: 5px;
+     border-radius: 3px;
+     font-size: 0.8em;
+     background-color: rgba(0, 0, 0, 1);
+     color: #FFFFFF;
+   }
+
+
+   @-webkit-keyframes progress-anim-2 {
+     0% {
+       width: 30%;
+     }
+     50% {
+       width: 100%;
+     }
+     100% {
+       width: 30%;
+     }
+   }
+   @keyframes progress-anim-2 {
+     0% {
+       width: 30%;
+     }
+     50% {
+       width: 100%;
+     }
+     100% {
+       width: 30%;
+     }
+   }
