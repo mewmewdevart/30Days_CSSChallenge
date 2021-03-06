@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(247,247,247);
+}
+
+.content{
+    position: relative;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container .box{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: 0px 30px 50px rgba(0,0,0,0.5);
+    overflow: hidden;
+}
+
+.container .box .imgBX{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    transform: scale(1) translateY(0);
+}
+
+.container .box:hover .imgBX{
+    transform: scale(1) translateY(-100%);
+}
+
+.container .box .imgBX img{
+    max-width: 100px;
+}
+
+.container .box .content { 
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    transition: 0.5s;
+    background-color: #d1495b;
+    transform: scale(1) translateY(calc(100% - 5px));
+}
+.container .box:hover .content {
+    transform: scale(1);
+
+}
+
+.container .box:nth-child(2) .content{
+    background-color: #edae49;
+}
+
+.container .box:nth-child(3) .content{
+    background-color: #00798c;
+}
+
+.container .box .content .icon img {
+    max-width: 80px;
+    filter: invert(100%) sepia(0%) saturate(2%) hue-rotate(290deg) brightness(104%) contrast(101%);
+}
+
+.container .box .content h3{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.container .box .content h4{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 500px;
+}
