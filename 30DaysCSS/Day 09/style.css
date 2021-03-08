@@ -1,0 +1,33 @@
+body 
+{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "arial black";
+	animation: bgchange 20s infinite;
+}
+
+
+h1 
+{
+	font-size: 60px;
+	text-align: center;
+	text-transform: capitalize;
+	color: white;
+}
+
+
+@keyframes bgchange {
+	0% { background-color: #FF8D5D }
+
+	20% { background-color: #DB43E8 }
+
+	40% { background-color: #5781FF }
+
+	60% { background-color: #43E8A3 }
+
+	80% { background-color: #E0FF66 }
+
+	100% { background-color: #ff6666 }
+}
