@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+  
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "arial black";
+    color: #fff;
+    background-color: rgb(55,55,55);
+  }
+  
+.container {
+    width: 400px;
+    height: 120px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+.box {
+    background: #fff;
+    box-shadow: 0 3px 12px rgba(12, 12, 12, 0.23), 0 3px 12px rgba(12, 12, 12, 0.23);
+    border-radius: 8px;
+  }
+  
+.group {
+    width: 90%;
+    height: 80px;
+    margin: auto;
+    position: relative;
+  }
+  
+label {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  color: rgba(109, 103, 119, 0.4);
+  font: 400px 40px Roboto;
+  letter-spacing: 1px;
+  cursor: text;
+  will-change: left;
+  transition: 0.3s, left 0.75s;
+}
+  
+label span {
+    display: inline-block;
+    will-change: transform;
+    transition: 0.4s ease;
+  }
+  
+label span:nth-child(1) {
+    transition-delay: 0.04s;
+  }
+  
+label span:nth-child(2) {
+    transition-delay: 0.08s;
+  }
+  
+label span:nth-child(3) {
+    transition-delay: 0.12s;
+  }
+  
+label span:nth-child(4) {
+    transition-delay: 0.16s;
+  }
+  
+label span:nth-child(5) {
+    transition-delay: 0.2s;
+  }
+  
+label span:nth-child(6) {
+    transition-delay: 0.24s;
+  }
+  
+label span:nth-child(7) {
+    transition-delay: 0.28s;
+  }
+  
+label span:nth-child(8) {
+    transition-delay: 0.32s;
+  }
+  
+input {
+    display: block;
+    width: 100%;
+    padding: 20px 0 15px 0;
+    color: #949797;
+    background: transparent;
+    font-size: 24px;
+    border: 0;
+    outline: 0;
+    transition: 0.3s ease;
+  }
+  
+input:focus ~ label,
+input:valid ~ label {
+    letter-spacing: -5.5%;
+  }
+  
+input:focus ~ label span,
+input:valid ~ label span {
+    color: #fff;
+    font: 750 25px arial;
+    transform: translateY(-200%);
+  }
+  
+input:focus ~ .bar,
+input:valid ~ .bar {
+    height: 4px;
+  }
+  
+input:focus ~ .close,
+input:valid ~ .close {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+.bar {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #4b4b4b;
+    transition: 0.3s ease;
+  }
+  
