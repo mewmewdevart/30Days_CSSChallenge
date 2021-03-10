@@ -80,3 +80,12 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/RiC7TZejSVqYw79qSc/giphy.gif" width="60%"  />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2009)
+
+
+
+
+- Day 10 - Password Effect 
+---
+<img src="https://media.giphy.com/media/qbuoneamRhw5rlXOsI/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2010)
