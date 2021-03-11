@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "arial black";
+  }
+  
+a {
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+  }
+  
+body {
+    min-height: 100vh;
+    color: rgb(14, 14, 14);
+    background: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.container {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+.container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.container h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: rgb(14, 14, 14);
+    background: rgb(255, 255, 255);
+    font-size: 27vw;
+    line-height: 100vh;
+    text-align: center;
+    text-transform: uppercase;
+    mix-blend-mode: screen;
+  }
