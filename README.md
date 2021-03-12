@@ -107,7 +107,7 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 
 
-- Day 13 - Image Hover
+- Day 13 - Image Hover 
 ---
 <img src="https://media.giphy.com/media/xA6nQgdI48d7hwDUBP/giphy.gif" width="60%"  />
 
