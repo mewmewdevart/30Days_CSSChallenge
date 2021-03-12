@@ -109,6 +109,8 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 - Day 13 - Image Hover 
 ---
-<img src="https://media.giphy.com/media/xA6nQgdI48d7hwDUBP/giphy.gif" width="60%"  />
+
+![imageday13](https://user-images.githubusercontent.com/50052600/110960314-5fdcb980-832d-11eb-888e-7dbf1df860f3.gif)
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2013)
+
