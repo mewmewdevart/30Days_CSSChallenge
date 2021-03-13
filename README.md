@@ -104,3 +104,13 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/k0hwDdzC86DPDw2iY1/giphy.gif" width="60%"  />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2012)
+
+
+
+- Day 13 - Image Hover 
+---
+
+![imageday13](https://user-images.githubusercontent.com/50052600/110960314-5fdcb980-832d-11eb-888e-7dbf1df860f3.gif)
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2013)
+
