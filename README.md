@@ -114,3 +114,12 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2013)
 
+
+- Day 14 - I Love 
+---
+
+<img src="https://media.giphy.com/media/uG5ecw52ft3SArtkyz/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2014)
+
+
