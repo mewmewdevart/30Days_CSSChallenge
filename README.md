@@ -123,3 +123,11 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2014)
 
 
+
+- Day 15 - Text Animation
+---
+
+<img src="https://media.giphy.com/media/6WC61Z4k5C38HWB1F1/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2015)
+
