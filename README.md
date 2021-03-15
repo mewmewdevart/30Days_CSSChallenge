@@ -1,18 +1,25 @@
 # 30Days_CSSChallenge 🚀 <br>
 
-**About challenge**<br>
+## 💻About challenge
 30Days of CSS is a challenge aims to help improve your coding skills by making mini-projects using HTML and CSS3.
 <br>
-<br>
-**Objective:**<br>
+**Objective:**
 There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS3 coding skills.
 <br>
-<br>
-**Rules:** <br>
+## 📑Rules: 
 - Perform one project per day
+- Share your progress on social media (Twitter, Facebook, Linkedin etc.) using a hashtag # 30diasDeCSS and others;
 - The project must be completed by 11:59 pm
+- Personal rule for good conduct: If the project is not carried out sometime, the next day should be added one more.
+<br>
+## 👥Tutorials (Credits)
 
-**Challenge:**<br>
+[Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
+[Free Front End](https://freefrontend.com/css-animation-examples) - 
+[Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A)
+
+## 🏆Challenge:
 
 - Day 01 - Hover Effect Social Media Buttons
 ---
@@ -130,4 +137,12 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/6WC61Z4k5C38HWB1F1/giphy.gif" width="60%"  />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2015)
+
+
+- Day 16 - Animated Cards
+---
+
+<img src="https://media.giphy.com/media/CQVbpzAcIBz59jKSnf/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2016)
 
