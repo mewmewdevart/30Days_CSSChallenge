@@ -7,19 +7,20 @@
 There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS3 coding skills.
 <br>
 ## 📑Rules: 
-- Perform one project per day
+- Perform one project per day;
 - Share your progress on social media (Twitter, Facebook, Linkedin etc.) using a hashtag # 30diasDeCSS and others;
-- The project must be completed by 11:59 pm
-- Personal rule for good conduct: If the project is not carried out sometime, the next day should be added one more.
+- The project must be completed by 11:59 pm;
+- Personal rule for good conduct: If the project is not carried out sometime, the next day should be added one more;
 <br>
-## 👥Tutorials (Credits)
+
+## 👥Tutorial (Credits)
 
 [Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Free Front End](https://freefrontend.com/css-animation-examples) - 
 [Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A)
 
-## 🏆Challenge:
+## 🏆Challenge (Results):
 
 - Day 01 - Hover Effect Social Media Buttons
 ---
