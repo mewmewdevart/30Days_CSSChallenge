@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(20, 19, 19);
+}
+
+.container{
+    position: relative;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 8%;
+    padding: 30px;
+}
+
+.container .card{
+    position: relative;
+    max-width: 300px;
+    height: 215px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 50px 10px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+
+.container .card:hover{
+    height: 500px;
+    background-color: rgb(85, 85, 85);
+}
+
+.container .card .imgCard{
+    position: relative;
+    width: 260px;
+    height: 260px;
+    top: -60px;
+    left: 5px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.container .card .imgCard img{
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.container .card .description h1{
+    font-style: normal;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.container .card .description p{
+    font-size: 16px;
+}
+
+.container .card .description{
+    position: relative;
+    margin-top: -120px;
+    padding: 10px 15px;
+    text-align: center;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+
+.container .card:hover .description{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0.3s;
+}
