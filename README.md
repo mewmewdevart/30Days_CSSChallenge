@@ -155,3 +155,11 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2017)
 
+
+- Day 18 - Creative Div Box
+---
+
+<img src="https://media.giphy.com/media/0pn0YSrQ5JeFyZqT8f/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2018)
+
