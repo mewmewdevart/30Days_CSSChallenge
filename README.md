@@ -18,7 +18,8 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 [Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Free Front End](https://freefrontend.com/css-animation-examples) - 
 [Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A)
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
+[Amazing Techno Tutorials](https://www.youtube.com/channel/UCX6g7OirMyfEBn5Oxqu-wGA)
 
 ## 🏆Challenge (Results):
 
@@ -163,3 +164,13 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2018)
 
+
+
+
+
+- Day 19 - Solar Eclipse
+---
+
+<img src="https://media.giphy.com/media/o2LSBrIrVokJuURaC9/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2019)
