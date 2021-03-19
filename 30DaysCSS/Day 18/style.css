@@ -1,15 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-* 
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
-body 
-{
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,8 +15,7 @@ body
     background: rgb(20, 19, 19);
 }
 
-.square 
-{
+.square {
     position: relative;
     width: 400px;
     height: 400px;
@@ -27,8 +24,7 @@ body
     align-items: center;
 }
 
-.square span:nth-child(1)
-{
+.square span:nth-child(1) {
     position: absolute;
     top: 0;
     left: 0;
@@ -40,14 +36,12 @@ body
     animation: animate 6s linear infinite;
 }
 
-.square:hover span:nth-child(1) 
-{
+.square:hover span:nth-child(1) {
     border: none;
     background: rgb(179, 103, 209);
 }
 
-.square span:nth-child(2)
-{
+.square span:nth-child(2) {
     position: absolute;
     top: 0;
     left: 0;
@@ -59,14 +53,12 @@ body
     animation: animate 4s linear infinite;
 }
 
-.square:hover span:nth-child(2)
-{
+.square:hover span:nth-child(2) {
     border: none;
     background: rgb(179, 103, 209);
 }
 
-.square span:nth-child(3)
-{
+.square span:nth-child(3) {
     position: absolute;
     top: 0;
     left: 0;
@@ -78,14 +70,12 @@ body
     animation: animate2 10s linear infinite;
 }
 
-.square:hover span:nth-child(3) 
-{
+.square:hover span:nth-child(3) {
     border: none;
     background: rgb(179, 103, 209);
 }
 
-@keyframes animate
-{
+@keyframes animate {
     0% {
         transform: rotate(0deg)
     }
@@ -94,8 +84,7 @@ body
     }
 }
 
-@keyframes animate2 
-{
+@keyframes animate2 {
     0% {
         transform: rotate(360deg)
     }
@@ -104,8 +93,7 @@ body
     }
 }
 
-.content 
-{
+.content {
     position: relative;
     padding: 40px 60px;
     color: rgb(240, 240, 240);
@@ -115,8 +103,7 @@ body
 }
 
 
-.content a 
-{
+.content a {
     position: relative;
     display: inline-block;
     margin-top:10px;
@@ -128,8 +115,7 @@ body
     border-radius: 73% 27% 44% 56% / 49% 44% 56% 51%;
 }
 
-.content a:hover 
-{
+.content a:hover {
     background: rgb(240, 240, 240);
     color: rgb(179, 103, 209);
 }

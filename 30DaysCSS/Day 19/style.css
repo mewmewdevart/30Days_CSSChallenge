@@ -1,15 +1,12 @@
-*, *::after, *::before
-{
+*, *::after, *::before {
     box-sizing: inherit;
 }
 
-html, body
-{
+html, body {
     height: 100%;
 }
 
-body
-{
+body {
     display: flex;
     justify-content: center;
     background-image: linear-gradient(30deg, #182c51, #09101e);
@@ -17,8 +14,7 @@ body
     overflow: hidden;
 }
 
-.moon
-{
+.moon {
     background-image: linear-gradient(30deg, #13223f, #0e1a30);
     width: 256px;
     height: 256px;
@@ -26,8 +22,7 @@ body
     position: relative;
 }
 
-.moon::before
-{
+.moon::before {
     content: '';
     background-color: #c7a88b;
     position: absolute;
@@ -40,8 +35,7 @@ body
 }
 
 
-@keyframes crescent
-{
+@keyframes crescent {
     0% {
         transform: translate(-30px, 30px) scale(0.9);
         box-shadow: none;

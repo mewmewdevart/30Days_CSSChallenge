@@ -1,12 +1,10 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body
-{
+body {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -15,8 +13,7 @@ body
     background-color: rgb(248, 248, 248);
 }
 
-.card
-{
+.card {
     position: relative;
     width: 300px;
     height: 400px;
@@ -24,8 +21,7 @@ body
 
 }
 
-.card .face
-{
+.card .face {
     position: absolute;
     top: 0;
     left: 0;
@@ -41,36 +37,31 @@ body
     transform: perspective(500px) rotateY(0deg);
 }
 
-.card .face.front
-{
+.card .face.front {
     background: rgb(175, 155, 221);
 }
 
-.card:hover .face.front{
+.card:hover .face.front {
     transform: perspective(500px) rotateY(180deg);
 }
 
-.card .face.back
-{
+.card .face.back {
     background: rgb(119, 187, 196);
     transform: perspective(500px) rotateY(180deg);
 }
 
-.card:hover .face.back
-{
+.card:hover .face.back {
     transform: perspective(500px) rotateY(360deg);
 }
 
-.card .face.front img 
-{
+.card .face.front img  {
     width: 200px;
     height: 400px;
     margin-top: 33px;
     transform: perspective(500px) translateZ(20px);
 }
 
-.card .face.back img
-{
+.card .face.back img {
     width: 275px;
     height: 400px;
     transform: perspective(500px) translateZ(30px);
