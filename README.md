@@ -185,3 +185,12 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 <img src="https://media.giphy.com/media/gUrxsWYL7Git0Z3pPH/giphy.gif" width="60%"  />
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2020)
+
+
+
+- Day 21 - Ghost Floating
+---
+
+<img src="https://media.giphy.com/media/IW6EL96QDhmNdybm6R/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2021)
