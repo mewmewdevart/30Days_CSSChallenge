@@ -225,3 +225,13 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2024)
 
+
+
+
+- Day 25 - Square Loading Animation
+---
+
+<img src="https://media.giphy.com/media/mDeK2Xvnl6lg6C7bIp/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2025)
+
