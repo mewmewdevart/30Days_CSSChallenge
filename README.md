@@ -247,3 +247,16 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 [View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2026)
 
 
+
+
+
+
+- Day 27 - Product Card
+---
+
+<img src="https://media.giphy.com/media/sU8RYHENlh3nZxOif3/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2027)
+
+
+
