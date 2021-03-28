@@ -260,3 +260,17 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 
 
+
+
+
+
+- Day 28 - Water Text Effect
+---
+
+<img src="https://media.giphy.com/media/Ca6z3ExAkxLutcN8Hv/giphy.gif" width="60%"  />
+
+[View code](https://github.com/mewmewdevart/30Days_CSSChallenge/tree/master/30DaysCSS/Day%2028)
+
+
+
+
