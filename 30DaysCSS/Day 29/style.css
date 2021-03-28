@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(62, 64, 66);
+  }
+  
+  .card {
+    max-width: 350px;
+    width: 100%;
+    background: rgb(62, 64, 66);
+    padding: 30px;
+    border: 1px solid rgb(129, 131, 134);
+    border-radius: 10px;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .img {
+    height: 75px;
+    width: 75px;
+    background: rgb(99, 101, 104);
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  }
+  .img:before {
+    background-size: 650px 600px;
+  }
+  
+  .details {
+    margin-left: 20px;
+  }
+
+  .details span {
+    display: block;
+    background: rgb(99, 101, 104);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .details span:before {
+    animation-delay: 0.2s;
+  }
+
+  .details .name {
+    height: 13px;
+    width: 200px;
+  }
+
+  .details .about {
+    height: 13px;
+    width: 170px;
+    margin-top: 10px;
+  }
+  
+  .description {
+    margin: 25px 0;
+  }
+  
+  .line {
+    background: rgb(99, 101, 104);
+    border-radius: 10px;
+    height: 13px;
+    margin: 10px 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .line-3 {
+    width: calc(100% - 60%);
+  }
+  
+  .btns {
+    display: flex;
+  }
+  
+  .btn {
+    height: 45px;
+    width: 100%;
+    background: rgb(99, 101, 104);
+    border-radius: 25px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 4px;
+  }
+  
+  .btn-2:before {
+    animation-delay: 0.2s;
+  }
+  
+  .img:before,
+  span:before,
+  .line:before,
+  .btn:before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, #656c71 0%, #777b85 20%, #656c71 40%, #657170 100%);
+    background-repeat: no-repeat;
+    background-size: 450px 400px;
+    animation: shimmer 1s linear infinite;
+  }
+  
+  @keyframes shimmer {
+    0% {
+      background-position: -450px 0;
+    }
+    100% {
+      background-position: 450px 0;
+    }
+  }
