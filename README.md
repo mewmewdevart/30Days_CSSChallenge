@@ -1,19 +1,21 @@
-# 30Days_CSSChallenge 🚀 <br>
+<h1 align="center">
+   🚀 <br> 30 Days of CSS <br>
+</h1>
 
-## 💻About challenge
-30Days of CSS is a challenge aims to help improve your coding skills by making mini-projects using HTML and CSS3.
-<br>
-**Objective:**
-There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS3 coding skills.
-<br>
-## 📑Rules: 
+<h4 align="center">
+  30Days of CSS is a challenge aims to help improve your coding skills by making mini-projects using HTML and CSS3.
+</h4>
+
+#### Objective:
+Exercising my knowledge (and learning more) of HTML5 and CSS3, creating daily mini-projects for 30 days.
+
+#### Rules:
 - Perform one project per day;
 - Share your progress on social media (Twitter, Facebook, Linkedin etc.) using a hashtag # 30diasDeCSS and others;
 - The project must be completed by 11:59 pm;
 - Personal rule for good conduct: If the project is not carried out sometime, the next day should be added one more;
-<br>
 
-## 👥Tutorial (Credits)
+#### 👥Tutorial/References (Credits)
 
 [Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Free Front End](https://freefrontend.com/css-animation-examples) - 
@@ -282,4 +284,5 @@ There will be 30 days of daily mini-projects aiming to improve the HTML5 and CSS
 
 
 
+<p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew). </p>
 
