@@ -1,13 +1,20 @@
 <h1 align="center">
-   🚀 <br> 30 Days of CSS <br>
+ 30 Days of CSS
 </h1>
 
-<h4 align="center">
-  30Days of CSS is a challenge aims to help improve your coding skills by making mini-projects using HTML and CSS3.
-</h4>
+<p align="center">
+	<b><i>30Days of CSS is a challenge aims to help improve your coding skills by making mini-projects using HTML and CSS3.</i></b><br>
+</p>
 
-#### Objective:
-Exercising my knowledge (and learning more) of HTML5 and CSS3, creating daily mini-projects for 30 days.
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/30Days-CSSChallenge?color=6272a4" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/30Days-CSSChallenge?color=6272a4"/>
+	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/30Days-CSSChallenge?color=6272a4"/>
+</p>
+
+
+#### 💡 About the project
+> _ Exercising my knowledge (and learning more) of HTML5 and CSS3, creating daily mini-projects for 30 days.
 
 #### Rules:
 - Perform one project per day;
@@ -15,15 +22,16 @@ Exercising my knowledge (and learning more) of HTML5 and CSS3, creating daily mi
 - The project must be completed by 11:59 pm;
 - Personal rule for good conduct: If the project is not carried out sometime, the next day should be added one more;
 
-#### 👥Tutorial/References (Credits)
 
-[Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
-[Free Front End](https://freefrontend.com/css-animation-examples) - 
-[Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
-[Amazing Techno Tutorials](https://www.youtube.com/channel/UCX6g7OirMyfEBn5Oxqu-wGA)
+#### 👥Tutorial/References
 
-## 🏆Challenge (Results):
+- [Online Tutoriais](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
+- [Free Front End](https://freefrontend.com/css-animation-examples) - 
+- [Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
+- [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
+- [Amazing Techno Tutorials](https://www.youtube.com/channel/UCX6g7OirMyfEBn5Oxqu-wGA)
+
+#### 🏆Projects:
 
 - Day 01 - Hover Effect Social Media Buttons
 ---
